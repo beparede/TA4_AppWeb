@@ -1,0 +1,1 @@
+mysql> select *from Clients ORDER BY ConsumoGeneral LIMIT 10;
